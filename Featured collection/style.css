@@ -1,0 +1,356 @@
+:root {
+  --white-color: #ffffff;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Avenir;
+}
+
+.left {
+  height: 864px;
+  width: 720px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  position: absolute;
+}
+
+.right {
+  position: absolute;
+  height: 864px;
+  width: 720px;
+  left: 720px;
+  top: 0px;
+  border-radius: 0px;
+  background: #ffffff;
+}
+
+img {
+  position: absolute;
+  height: 864px;
+  width: 720px;
+  left: 0%;
+  right: 0%;
+}
+
+.icon {
+  height: 32px;
+  width: 32px;
+  left: 344px;
+  top: 416px;
+  border-radius: 0px;
+}
+
+.Group479 {
+  margin-bottom: 526px;
+  margin-top: 96px;
+  margin-left: 120px;
+  margin-right: 106px;
+}
+
+h1 {
+  position: absolute;
+  height: 123px;
+  width: 494px;
+  left: 120px;
+  top: 96px;
+  border-radius: nullpx;
+  font-family: "Raleway", sans-serif;
+  font-style: bolder;
+  font-weight: 700;
+  font-size: 31.25px;
+  line-height: 130%;
+  display: flex;
+  align-items: flex-end;
+  color: #000000;
+}
+
+p {
+  position: absolute;
+  width: 432px;
+  height: 52px;
+  left: 120px;
+  top: 231px;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #666666;
+}
+
+.all.everyday.items {
+  height: 17px;
+  width: 146px;
+  left: 0px;
+  top: 0px;
+  border-radius: nullpx;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 13px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #000000;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-top: 315px;
+}
+
+svg {
+  height: 1px;
+  width: 146px;
+  left: 0px;
+  top: 22px;
+  border-radius: 0px;
+  background: #000000;
+}
+
+.card {
+  height: 363px;
+  width: 906px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  position: absolute;
+  left: 0%;
+  right: -25.83%;
+  top: 0%;
+  bottom: 0%;
+  margin-bottom: 95px;
+}
+
+.btn-next {
+  height: 40px;
+  width: 40px;
+  left: 632px;
+  top: 541px;
+  border-radius: 0px;
+  padding: 12px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  position: absolute;
+  right: 48px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+ margin-left: 850px;
+ z-index:2;
+ 
+}
+
+.path {
+    height: 16px;
+    width: 16px;
+    left: 0px;
+    top: 11px;
+    border-radius: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index:2;
+    background: #000000;
+    
+    
+
+}
+
+.product {
+  position: absolute;
+  height: 310px;
+  width: 230px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  margin-bottom: 148px;
+  margin-top: 406px;
+  margin-left: 840px;
+  margin-right: 370px;
+}
+
+.product1 {
+  position: absolute;
+  height: 310px;
+  width: 230px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  margin-bottom: 148px;
+  margin-top: 406px;
+  margin-left: 1102px;
+  margin-right: 370px;
+}
+
+.product2 {
+  position: absolute;
+  height: 310px;
+  width: 230px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  margin-bottom: 148px;
+  margin-top: 406px;
+  margin-left: 1364px;
+  margin-right: 370px;
+}
+
+.first {
+  width: 230px;
+  height: 20px;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 160%;
+  color: #000000;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-bottom: 116px;
+  margin-left: 840px;
+  margin-top: 728px;
+}
+
+.firstS {
+  position: absolute;
+  left: 0%;
+  right: 82.61%;
+  top: 0%;
+  bottom: 0%;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12.8px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 85px;
+  margin-left: 840px;
+  margin-top: 759px;
+  padding-top: 8px;
+}
+
+.second {
+  width: 230px;
+  height: 20px;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 160%;
+  color: #000000;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-bottom: 116px;
+  margin-left: 1102px;
+  margin-top: 728px;
+}
+
+.secondS {
+  position: absolute;
+  left: 0%;
+  right: 82.61%;
+  top: 0%;
+  bottom: 0%;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12.8px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 85px;
+  margin-left: 1102px;
+  margin-top: 759px;
+  padding-top: 4px;
+}
+
+.third {
+  width: 230px;
+  height: 20px;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 160%;
+  color: #000000;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-bottom: 116px;
+  margin-left: 1364px;
+  margin-top: 728px;
+}
+
+.thirdS {
+  position: absolute;
+  left: 0%;
+  right: 82.61%;
+  top: 0%;
+  bottom: 0%;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12.8px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 85px;
+  margin-left: 1364px;
+  margin-top: 759px;
+  padding-top: 4px;
+}
+
+.colorOne {
+  height: 12px;
+  width: 72px;
+  left: 158px;
+  top: 4px;
+  border-radius: 0px;
+  margin-bottom: 96px;
+  margin-top: 756px;
+  margin-left: 840px;
+}
+
+.colorTwo {
+  height: 12px;
+  width: 72px;
+  left: 158px;
+  top: 4px;
+  border-radius: 0px;
+  margin-bottom: 96px;
+  margin-top: 756px;
+  margin-left: 1107px;
+}
+
+.colorThree {
+  height: 12px;
+  width: 72px;
+  left: 158px;
+  top: 4px;
+  border-radius: 0px;
+  margin-bottom: 96px;
+  margin-top: 756px;
+  margin-left: 1367px;
+}
+
+/* @media only screen and () {    Responsive Çalışmalıyım
+  }  */
